@@ -5,6 +5,9 @@ build/
 !**/src/test/**/build/
 .kotlin
 
+### Floorcrafty-Specific ###
+*.dpd
+
 ### IntelliJ IDEA ###
 .idea/
 *.iws
